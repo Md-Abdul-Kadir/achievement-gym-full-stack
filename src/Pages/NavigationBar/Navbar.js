@@ -17,7 +17,7 @@ const NavigationBar = () => {
                     <button onClick={signInUsingGoogle} className="btn-outline-secondary px-4 py-2 rounded"> LOG IN</button> */}
                     
           
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top navheight">
             <div class="container">
                 <a className="navbar-brand" href="#">Achevement <span className="text-danger">Gym</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

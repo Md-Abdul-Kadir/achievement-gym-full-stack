@@ -5,5 +5,10 @@
     color:gray;
 }
 .navitem:hover{
-    color:azure;
+    color:rgb(255, 255, 255);
+   
+}
+.navheight
+{
+    height: 80px;
 }
