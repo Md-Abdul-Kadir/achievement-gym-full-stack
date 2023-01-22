@@ -16,8 +16,8 @@ const OurTrainer = () => {
                 <p className="text-secondary">Home / Our Trainer</p>
             </div>
             
-            <div className="py-5">
-                <h1>Choose our best Trainers</h1>
+            <div className="my-5 pt-5">
+                <h2 className='text-secondary'>Choose your best Trainer</h2>
                 <p>Whatever your fitness goal, our personal trainers can offer
                  one-to-one sessions and classes.</p>
             </div>

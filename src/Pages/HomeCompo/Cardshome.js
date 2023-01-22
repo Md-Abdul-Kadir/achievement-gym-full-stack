@@ -10,7 +10,7 @@ const Cardshome = () => {
     return (
         <div>
             <div className="my-5 pt-5">
-                <h1 className="text-danger">-Our best services-</h1>
+                <h1 className="text-danger">Our best services</h1>
                 <p>Stay Healthy stay healthy.</p>
             </div>
           

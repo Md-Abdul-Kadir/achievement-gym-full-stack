@@ -1,4 +1,6 @@
 import React from 'react';
+import AboutShort from '../Aboutus/AboutShort';
+import Aboutus from '../Aboutus/Aboutus';
 import Carusol from '../Carusol/Carusol';
 import Footer from '../Footer/Footer';
 import Cardshome from '../HomeCompo/Cardshome';
@@ -14,6 +16,7 @@ const Home = () => {
             <NavigationBar></NavigationBar>
             <Carusol></Carusol>
             <Cardshome></Cardshome>
+            <AboutShort></AboutShort>
             <Footer></Footer>
            
         </div>

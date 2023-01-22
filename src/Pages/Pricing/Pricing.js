@@ -13,7 +13,7 @@ const Pricing = () => {
         <div>
             <NavigationBar></NavigationBar>
             <div className="pricingbanner">
-              <h2 className="pExtraPrice text-light">Pricing</h2>
+              <h1 className="pExtraPrice text-light">Pricing</h1>
               <p className="fs-6 text-secondary">Home / Pricing</p>
             </div>
             <Container className="mb-5">
