@@ -15,7 +15,7 @@ const NavigationBar = () => {
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top navheight">
         <div class="container">
           <a className="navbar-brand" href="#">
-            Achevement <span className="text-danger">Gym</span>
+          Achievement <span className="text-danger">Gym</span>
           </a>
           <button
             class="navbar-toggler"
